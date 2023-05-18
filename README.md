@@ -29,6 +29,10 @@ secrets.json 파일을 생성하고 다음과 같이 내용을 넣어주세요!
     "REST_API_KEY":"REST_API 키를 생성해 주세요!"
 }
 
+프론트 깃 주소: 
+https://github.com/sodasora/dream_front.git
+
+프론트에 해당하는 레포지토리를 클론받아 같이 작동하시면 됩니다!
 # 💡 FEATURES
 1. 로그인, 회원 가입
 
@@ -62,15 +66,5 @@ secrets.json 파일을 생성하고 다음과 같이 내용을 넣어주세요!
 
 마이 페이지
 
-# TEAM
-우소라: https://github.com/sodasora
 
-
-이동현: https://github.com/OCmonet
-
-
-정승호: https://github.com/torigasuki
-
-
-김태연: https://github.com/kimty9627
 
